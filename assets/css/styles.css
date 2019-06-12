@@ -1,0 +1,41 @@
+
+
+.rock{
+    border: 3px solid goldenrod;
+    height: 120px;
+    width: 200px;
+    box-shadow: 4px 4px 4px black;
+
+}
+
+
+
+
+img{
+    width: 50px;
+    height:60px;
+}
+
+header{
+    font-size: 24px;
+    text-align: center; 
+    background-color:goldenrod; 
+    padding: 10px;
+
+}
+
+
+#result {
+    font-size: 30px;
+    color: teal;
+    
+     
+}
+
+.container{
+  font-size: 20px;
+    color: teal;
+  float:right;
+  margin: 34px;
+  padding-right: 50px;
+}
